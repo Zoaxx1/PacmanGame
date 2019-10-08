@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0456d295875019e479e3427e6c8f2262
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pacdotPrefab: {fileID: 3888466813863701593, guid: 6df7eab706244e54d9afbde95140c841,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
